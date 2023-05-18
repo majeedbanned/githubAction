@@ -1,3 +1,5 @@
+//my first class
+
 class Array1 {
   array = [];
   count = 0;

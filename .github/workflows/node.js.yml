@@ -27,5 +27,5 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         script: |
-          cd /var/www/nodejs
+          cd /var/www/nodejs/githubAction
           git pull
